@@ -21,8 +21,7 @@
 > UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · SwiftData · SPM · REST · GCD · Async/Await · Unit Testing · UI Testing
 
 
-# Примеры работ:
-
+# Примеры работ
 
 ## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/QuoteTap/QuoteTapIconLight.png' alt='QuoteTap' height='20'> QuoteTap](https://apps.apple.com/us/app/quotetap/id6756549675)
 Приложение показывает случайные цитаты. Пользователи могут лайкать, сохранять в избранное и делиться цитатами.  
@@ -31,36 +30,37 @@
 
 🌟 **Успешно выпущено в App Store!**
 
-<img src="https://github.com/IsakovDaniil/Isakov/blob/main/QuoteTap/QuoteTapApp.png">
+<img src="https://github.com/IsakovDaniil/Isakov/blob/main/QuoteTap/QuoteTapApp.png" alt="QuoteTap App">
 
 > 🖥 UIKit · 📋 UITableView · 💾 Core Data · 🌐 URLSession · 🔔 UserNotifications · ✨ UIKit Animations · 🌎 Localization · 📐 MVP
 
 
 ## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerIcon.png' alt='Tracker' height='20'> Tracker](https://github.com/IsakovDaniil/Tracker)
-Приложение помогает пользователям формировать и отслеживать полезные привычки.  
+Приложение показывает прогресс пользователей в формировании полезных привычек.  
 
-- Отслеживание привычек по дням недели: можно видеть, как привычки выполняются каждый день.  
-- Просмотр прогресса: можно анализировать динамику выполнения привычек с течением времени.
-  
-<img src="https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerApp.png">
+- Отслеживание привычек по дням недели: видно выполнение привычек каждый день.  
+- Просмотр прогресса: анализ динамики выполнения привычек с течением времени.
 
-> 🖥 UIKit · 📖 UIPageViewController · 📋 UICollectionView · 📐 MVVM · 💾 Core Data · 🌎 Localization · 📊 AppMetrica · ⚙️ CocoaPods · ✨ Snapshot Tests
+<img src="https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerApp.png" alt="Tracker App">
+
+> 🖥 UIKit · 📖 UIPageViewController · 📋 UICollectionView · 📐 MVP · 💾 Core Data · 🌎 Localization · 📊 AppMetrica · ⚙️ SPM · ✨ Snapshot Tests
 
 
 ## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/ImageFeed/ImageFeedIcon.png' alt='ImageFeed' height='20'> ImageFeed](https://github.com/IsakovDaniil/ImageFeed)
 Приложение показывает фотографии из сервиса Unsplash. Пользователи могут входить через аккаунт с использованием WebView.  
-Приложение включает шесть экранов, два основных — просмотр фотографий и экран профиля.  
+Включает шесть экранов, два основных — просмотр фотографий и экран профиля.  
 С экрана с фотографиями можно перейти к полноэкранному просмотру изображения с возможностью сохранить или поделиться им.  
 
 <img src="https://github.com/IsakovDaniil/Isakov/blob/main/ImageFeed/ImageFeedApp.png" alt="ImageFeed Screenshot">
 
-> 🖥 UIKit · 📋 UITableView · 🌐 WKWebView · ⚡ Networking · 🔑 Keychain Wrapper · 📸 Kingfisher · ⏳ ProgressHUD · ✅ Unit Tests · 🖱 UI Tests
+> 🖥 UIKit · 📋 UITableView · 🌐 WKWebView · ⚡ Networking · 🔑 Keychain Wrapper · 📸 Kingfisher · ⏳ ProgressHUD · 💫 Combine · ✅ Unit Tests · 🖱 UI Tests
 
 
 ## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Trains/TrainsIcon.png' alt='Trains' height='20'> Trains](https://github.com/IsakovDaniil/Trains)  
 Приложение показывает расписание транспорта с использованием API Яндекс.Расписаний. Пользователи могут искать станции, просматривать рейсы и информацию о перевозчиках.  
-Есть экран фильтров маршрута, экран настроек и сторис с новостями.  
-Поддерживаются светлая и тёмная темы.
+Есть экран фильтров маршрута, экран настроек и сторис с новостями.
+
+🌟 **Реализовано с использованием MVVM и SwiftUI**  
 
 <img src="https://github.com/IsakovDaniil/Isakov/blob/main/Trains/TrainsApp.png" alt="Trains App">
 
