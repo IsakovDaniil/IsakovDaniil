@@ -33,5 +33,15 @@ UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · Swif
 
 <img src="https://github.com/IsakovDaniil/Isakov/blob/main/QuoteTap/QuoteTapApp.png">
 
-**Stack:**  
 🖥 UIKit · 📋 UITableView · 💾 Core Data · 🌐 URLSession · 🔔 UserNotifications · ✨ UIKit Animations · 🌎 Localization · 📐 MVP
+
+
+## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerIcon.png' alt='Tracker' height='20'> Tracker](https://github.com/IsakovDaniil/Tracker)
+Приложение помогает пользователям формировать и отслеживать полезные привычки.  
+
+- **Отслеживание привычек по дням недели:** можно видеть, как привычки выполняются каждый день.  
+- **Просмотр прогресса:** можно анализировать динамику выполнения привычек с течением времени.
+  
+<img src="https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerApp.png">
+
+🖥 UIKit · 📖 UIPageViewController · 📋 UICollectionView · 📐 MVVM · 💾 Core Data · 🌎 Localization · 📊 AppMetrica · ⚙️ CocoaPods · ✨ Snapshot Tests
