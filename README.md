@@ -8,3 +8,11 @@
 [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Icons/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/soulhide/)&nbsp;&nbsp;
 [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Icons/mail.png' alt='mail' height='40'>](mailto:soulhidedevelop@icloud.com)&nbsp;&nbsp;
 [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniilisakov)
+
+### Навыки:
+
+**Языки и инструменты:**  
+Swift · Xcode · Git · Postman · Figma · Photoshop
+
+**iOS-технологии и архитектуры:**  
+UIKit · SwiftUI · WebKit · Combine · MVC · MVVM · Core Data · SwiftData · SPM · REST · GCD · Async/Await · Unit Testing · UI Testing
