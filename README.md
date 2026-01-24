@@ -21,7 +21,7 @@
 > UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · SwiftData · SPM · REST · GCD · Async/Await · Unit Testing · UI Testing
 
 
-# Примеры работ
+# Примеры работ:
 
 ## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/QuoteTap/QuoteTapIconLight.png' alt='QuoteTap' height='20'> QuoteTap](https://apps.apple.com/us/app/quotetap/id6756549675)
 Приложение показывает случайные цитаты. Пользователи могут лайкать, сохранять в избранное и делиться цитатами.  
