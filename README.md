@@ -39,8 +39,8 @@
 ## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerIcon.png' alt='Tracker' height='20'> Tracker](https://github.com/IsakovDaniil/Tracker)
 Приложение помогает пользователям формировать и отслеживать полезные привычки.  
 
-- **Отслеживание привычек по дням недели:** можно видеть, как привычки выполняются каждый день.  
-- **Просмотр прогресса:** можно анализировать динамику выполнения привычек с течением времени.
+- Отслеживание привычек по дням недели: можно видеть, как привычки выполняются каждый день.  
+- Просмотр прогресса: можно анализировать динамику выполнения привычек с течением времени.
   
 <img src="https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerApp.png">
 
@@ -57,3 +57,11 @@
 > 🖥 UIKit · 📋 UITableView · 🌐 WKWebView · ⚡ Networking · 🔑 Keychain Wrapper · 📸 Kingfisher · ⏳ ProgressHUD · ✅ Unit Tests · 🖱 UI Tests
 
 
+## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Trains/TrainsIcon.png' alt='Trains' height='20'> Trains](https://github.com/IsakovDaniil/Trains)  
+Приложение показывает расписание транспорта с использованием API Яндекс.Расписаний. Пользователи могут искать станции, просматривать рейсы и информацию о перевозчиках.  
+Есть экран фильтров маршрута, экран настроек и сторис с новостями.  
+Поддерживаются светлая и тёмная темы.
+
+<img src="https://github.com/IsakovDaniil/Isakov/blob/main/Trains/TrainsApp.png" alt="Trains App">
+
+> 🖌 SwiftUI · 📐 MVVM · 🌐 Yandex API · 💫 Combine
