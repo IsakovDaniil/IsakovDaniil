@@ -15,10 +15,10 @@
 ### Навыки:
 
 **Языки и инструменты:**  
-Swift · Xcode · Git · Postman · Figma · Photoshop
+> Swift · Xcode · Git · Postman · Figma · Photoshop
 
 **iOS-технологии и архитектуры:**  
-UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · SwiftData · SPM · REST · GCD · Async/Await · Unit Testing · UI Testing
+> UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · SwiftData · SPM · REST · GCD · Async/Await · Unit Testing · UI Testing
 
 
 # Примеры работ:
@@ -33,7 +33,7 @@ UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · Swif
 
 <img src="https://github.com/IsakovDaniil/Isakov/blob/main/QuoteTap/QuoteTapApp.png">
 
-🖥 UIKit · 📋 UITableView · 💾 Core Data · 🌐 URLSession · 🔔 UserNotifications · ✨ UIKit Animations · 🌎 Localization · 📐 MVP
+> 🖥 UIKit · 📋 UITableView · 💾 Core Data · 🌐 URLSession · 🔔 UserNotifications · ✨ UIKit Animations · 🌎 Localization · 📐 MVP
 
 
 ## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerIcon.png' alt='Tracker' height='20'> Tracker](https://github.com/IsakovDaniil/Tracker)
@@ -44,4 +44,16 @@ UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · Swif
   
 <img src="https://github.com/IsakovDaniil/Isakov/blob/main/Tracker/TrackerApp.png">
 
-🖥 UIKit · 📖 UIPageViewController · 📋 UICollectionView · 📐 MVVM · 💾 Core Data · 🌎 Localization · 📊 AppMetrica · ⚙️ CocoaPods · ✨ Snapshot Tests
+> 🖥 UIKit · 📖 UIPageViewController · 📋 UICollectionView · 📐 MVVM · 💾 Core Data · 🌎 Localization · 📊 AppMetrica · ⚙️ CocoaPods · ✨ Snapshot Tests
+
+
+## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/ImageFeed/ImageFeedIcon.png' alt='ImageFeed' height='20'> ImageFeed](https://github.com/IsakovDaniil/ImageFeed)
+Приложение показывает фотографии из сервиса Unsplash. Пользователи могут входить через аккаунт с использованием WebView.  
+Приложение включает шесть экранов, два основных — просмотр фотографий и экран профиля.  
+С экрана с фотографиями можно перейти к полноэкранному просмотру изображения с возможностью сохранить или поделиться им.  
+
+<img src="https://github.com/IsakovDaniil/Isakov/blob/main/ImageFeed/ImageFeedApp.png" alt="ImageFeed Screenshot">
+
+> 🖥 UIKit · 📋 UITableView · 🌐 WKWebView · ⚡ Networking · 🔑 Keychain Wrapper · 📸 Kingfisher · ⏳ ProgressHUD · ✅ Unit Tests · 🖱 UI Tests
+
+
