@@ -65,3 +65,14 @@
 <img src="https://github.com/IsakovDaniil/Isakov/blob/main/Trains/TrainsApp.png" alt="Trains App">
 
 > 🖌 SwiftUI · 📐 MVVM · 🌐 Yandex API · 💫 Combine
+
+
+## [<img src='https://github.com/IsakovDaniil/Isakov/blob/main/FakeNFT/FakeNFTIcon.png' alt='Trains' height='20'> Trains](https://github.com/IsakovDaniil/Trains)  
+Приложение полностью работает через мок-сервер: пользователи могут просматривать коллекции NFT, открывать отдельные NFT, проходить процесс покупки и редактировать свой профиль.  
+Это командный проект, в котором я реализовал профиль. Профиль включает четыре экрана: сам профиль, редактирование профиля, просмотр «Мои NFT» и «Избранное NFT».
+
+🌟 **Реализовано с использованием MVVM и SwiftUI**  
+
+<img src="https://github.com/IsakovDaniil/Isakov/blob/main/FakeNFT/FakeNFTApp.png" alt="Trains App">
+
+> 🖌 SwiftUI · 📐 MVVM · 🌐 Networking · 💫 Async/await
