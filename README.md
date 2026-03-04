@@ -73,6 +73,6 @@
 
 🌟 **Реализовано с использованием MVVM и SwiftUI**  
 
-<img src="https://github.com/IsakovDaniil/Isakov/blob/main/FakeNFT/FakeNFTApp.png" alt="Trains App">
+<img src="https://github.com/IsakovDaniil/Isakov/blob/main/FakeNFT/FakeNFTApp.png" alt="FakeNFT App">
 
 > 🖌 SwiftUI · 📐 MVVM · 🌐 Networking · 💫 Async/await
