@@ -18,7 +18,7 @@
 > Swift · Xcode · Git · Postman · Figma · Photoshop
 
 **iOS-технологии и архитектуры:**  
-> UIKit · SwiftUI · WebKit · Combine · MVC · MVP · MVVM · Core Data · SwiftData · SPM · REST · GCD · Async/Await · Unit Testing · UI Testing
+> UIKit · SwiftUI · WebKit · Combine · MVP · MVVM · VIPER · Core Data · SwiftData · SPM · REST · GCD · Async/Await · Unit Testing · UI Testing
 
 
 # Примеры работ:
